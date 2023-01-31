@@ -1,6 +1,6 @@
 {	
     "isBaseRuleset": false,
-	"buildingsToRemove":[],
+	"buildingsToRemove":["Bazaar","Burial Tomb","Ceilidh Hall","Coffee House","Floating Gardens","Hanse","Krepost","Longhouse","Mud Pyramid Mosque","Mughal Fort","Paper Maker","Pyramid","Satrap's Court","Stele","Walls of Babylon","Wat"],
     "nationsToRemove":[],
 	"techsToRemove":[],
 	"unitsToRemove": []
