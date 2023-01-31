@@ -1,7 +1,9 @@
 {	
-    "isBaseRuleset": false,
-	"buildingsToRemove":["Bazaar","Burial Tomb","Ceilidh Hall","Coffee House","Floating Gardens","Hanse","Krepost","Longhouse","Mud Pyramid Mosque","Mughal Fort","Paper Maker","Pyramid","Satrap's Court","Stele","Walls of Babylon","Wat"],
-    "nationsToRemove":[],
-	"techsToRemove":[],
-	"unitsToRemove": []
+    	"isBaseRuleset": false,
+	"buildingsToRemove":["Bazaar","Burial Tomb","Ceilidh Hall","Coffee House","Floating Gardens","Hanse","Krepost","Longhouse","Mud Pyramid Mosque",
+			     "Mughal Fort","Paper Maker","Pyramid","Satrap's Court","Stele","Walls of Babylon","Wat"],
+	"unitsToRemove": ["African Forest Elephant","Atlatlist","B17","Ballista","Battering Ram","Berserker","Bowman","Camel Archer","Carolean","Cataphract","Chu-Ko-Nu",
+			  "Companion Cavalry","Conquistador","Cossack","Dromon","Foreign Legion","Hakkapeliitta","Hoplite","Horse Archer","Hussar","Hwach'a","Jaguar","Janissary","Keshik","Khan","Landsknecht",
+			  "Legion","Longbowman","Mandekalu Cavalry","Maori Warrior","Mehal Sefari","Minuteman","Mohawk Warrior","Musketeer","Naresuan's Elephant","Norwegian Ski Infantry","Panzer","Persian Immortal",
+			  "Pictish Warrior","Quinquereme","Samurai","Sea Beggar","Ship of the Line","Sipahi","Slinger","Tercio","Turtle Ship","War Chariot","War Elephant","Zero",]
 }
